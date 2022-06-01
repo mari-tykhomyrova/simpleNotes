@@ -1,4 +1,5 @@
 # SimpleNotes
+Elixir, Phoenix LiveView
 
 ## Installation
 ```bash
